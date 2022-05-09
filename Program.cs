@@ -1,6 +1,7 @@
 ﻿using System;
 using System.IO;
 using System.Text;
+using SpotifyAPI.Web; // For later
 
 namespace AlbumBacklogManager
 {
@@ -40,8 +41,7 @@ namespace AlbumBacklogManager
 
         static public void Main()
         {
-            Song newSong = PromptNewSong();
-            Console.WriteLine(newSong.LengthTotal);
+            
             PromptExit();
         }
 
