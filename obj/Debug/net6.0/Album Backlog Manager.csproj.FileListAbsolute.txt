@@ -1,0 +1,36 @@
+C:\Users\eian3\Desktop\Album Backlog Manager\bin\Debug\net6.0\Album Backlog Manager.exe
+C:\Users\eian3\Desktop\Album Backlog Manager\bin\Debug\net6.0\Album Backlog Manager.deps.json
+C:\Users\eian3\Desktop\Album Backlog Manager\bin\Debug\net6.0\Album Backlog Manager.runtimeconfig.json
+C:\Users\eian3\Desktop\Album Backlog Manager\bin\Debug\net6.0\Album Backlog Manager.dll
+C:\Users\eian3\Desktop\Album Backlog Manager\bin\Debug\net6.0\Album Backlog Manager.pdb
+C:\Users\eian3\Desktop\Album Backlog Manager\obj\Debug\net6.0\Album Backlog Manager.csproj.AssemblyReference.cache
+C:\Users\eian3\Desktop\Album Backlog Manager\obj\Debug\net6.0\Album Backlog Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eian3\Desktop\Album Backlog Manager\obj\Debug\net6.0\Album Backlog Manager.AssemblyInfoInputs.cache
+C:\Users\eian3\Desktop\Album Backlog Manager\obj\Debug\net6.0\Album Backlog Manager.AssemblyInfo.cs
+C:\Users\eian3\Desktop\Album Backlog Manager\obj\Debug\net6.0\Album Backlog Manager.csproj.CoreCompileInputs.cache
+C:\Users\eian3\Desktop\Album Backlog Manager\obj\Debug\net6.0\Album Backlog Manager.dll
+C:\Users\eian3\Desktop\Album Backlog Manager\obj\Debug\net6.0\refint\Album Backlog Manager.dll
+C:\Users\eian3\Desktop\Album Backlog Manager\obj\Debug\net6.0\Album Backlog Manager.pdb
+C:\Users\eian3\Desktop\Album Backlog Manager\obj\Debug\net6.0\Album Backlog Manager.genruntimeconfig.cache
+C:\Users\eian3\Desktop\Album Backlog Manager\obj\Debug\net6.0\ref\Album Backlog Manager.dll
+C:\Users\eian3\Desktop\Album Backlog Manager\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\eian3\Desktop\Album Backlog Manager\bin\Debug\net6.0\SpotifyAPI.Web.dll
+C:\Users\eian3\Desktop\Album Backlog Manager\obj\Debug\net6.0\Album Backlog Manager.csproj.CopyComplete
+C:\Users\eian3\Desktop\My Stuff\Album Backlog Manager\bin\Debug\net6.0\Album Backlog Manager.exe
+C:\Users\eian3\Desktop\My Stuff\Album Backlog Manager\bin\Debug\net6.0\Album Backlog Manager.deps.json
+C:\Users\eian3\Desktop\My Stuff\Album Backlog Manager\bin\Debug\net6.0\Album Backlog Manager.runtimeconfig.json
+C:\Users\eian3\Desktop\My Stuff\Album Backlog Manager\bin\Debug\net6.0\Album Backlog Manager.dll
+C:\Users\eian3\Desktop\My Stuff\Album Backlog Manager\bin\Debug\net6.0\Album Backlog Manager.pdb
+C:\Users\eian3\Desktop\My Stuff\Album Backlog Manager\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\eian3\Desktop\My Stuff\Album Backlog Manager\bin\Debug\net6.0\SpotifyAPI.Web.dll
+C:\Users\eian3\Desktop\My Stuff\Album Backlog Manager\obj\Debug\net6.0\Album Backlog Manager.csproj.AssemblyReference.cache
+C:\Users\eian3\Desktop\My Stuff\Album Backlog Manager\obj\Debug\net6.0\Album Backlog Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eian3\Desktop\My Stuff\Album Backlog Manager\obj\Debug\net6.0\Album Backlog Manager.AssemblyInfoInputs.cache
+C:\Users\eian3\Desktop\My Stuff\Album Backlog Manager\obj\Debug\net6.0\Album Backlog Manager.AssemblyInfo.cs
+C:\Users\eian3\Desktop\My Stuff\Album Backlog Manager\obj\Debug\net6.0\Album Backlog Manager.csproj.CoreCompileInputs.cache
+C:\Users\eian3\Desktop\My Stuff\Album Backlog Manager\obj\Debug\net6.0\Album Backlog Manager.csproj.CopyComplete
+C:\Users\eian3\Desktop\My Stuff\Album Backlog Manager\obj\Debug\net6.0\Album Backlog Manager.dll
+C:\Users\eian3\Desktop\My Stuff\Album Backlog Manager\obj\Debug\net6.0\refint\Album Backlog Manager.dll
+C:\Users\eian3\Desktop\My Stuff\Album Backlog Manager\obj\Debug\net6.0\Album Backlog Manager.pdb
+C:\Users\eian3\Desktop\My Stuff\Album Backlog Manager\obj\Debug\net6.0\Album Backlog Manager.genruntimeconfig.cache
+C:\Users\eian3\Desktop\My Stuff\Album Backlog Manager\obj\Debug\net6.0\ref\Album Backlog Manager.dll
