@@ -21,48 +21,69 @@ namespace AlbumBacklogManager.SongManagement
             s.Artist = Console.ReadLine();
 
             Console.Write("Name of album: ");
-            s.Album = Console.ReadLine();
+            s.AlbumName = Console.ReadLine();
 
             Console.Write("Length of song (seconds): ");
             s.Length = int.Parse(Console.ReadLine());
-
-            Console.Write("Priority Level (0 - 3): ");
-            s.Priority = int.Parse(Console.ReadLine());
 
             return s;
         }
     }
     public struct Song
     {
-        public Song(string name, string artist, string album, float length, int priority)
+        public Song(string name, string artist, string albumName, float length)
         {
             // This looks really ugly to me but y'know it's w/e
             Name = name;
             Artist = artist;
-            Album = album;
+            AlbumName = albumName;
             Length = length;
-            Priority = priority;
         }
 
         // Nullable strings is a band-aid fix for the egregious amount of
         // possible null reference warnings I'm getting for using Console.Readline()
         public string? Name;
         public string? Artist;
-        public string? Album;
+        public string? AlbumName;
         public float Length; // Consider using TimeSpan for this
 
-        public int Priority{set{
-            if (value < 0 || value > 3)
-            {
-                throw new ArgumentOutOfRangeException($"{nameof(value)} must be between 0 and 3.");
-            }}}
+        // Make a property to return an Album from AlbumName
 
         public int LengthMinutes{get{
             return (int)(Math.Floor(Length/60f));
             }}
 
         public float LengthSeconds{get{
-            return Length % 60f;
+            return Length%60f;
+            }}
+
+        public string LengthTotal{get{
+            return LengthMinutes + ":" + LengthSeconds.ToString("00");
+            }}
+    }
+    public struct Album
+    {
+        public Album(string name, float length, Song[] songList)
+        {
+            Name = name;
+            Length = length;
+            SongList = songList;
+        }
+
+        public string? Name;
+        public float Length;
+        public Song[] SongList;
+
+        public int Priority{set{
+            if (value < 1 || value > 3) throw new ArgumentOutOfRangeException($"{nameof(value)} must be between 1 and 3.");
+            }}
+
+        public int LengthMinutes{get{
+            return (int)(Math.Floor(Length/60f));
+            }}
+
+        public float LengthSeconds{get{
+            return Length%60f;
             }}
 
         public string LengthTotal{get{

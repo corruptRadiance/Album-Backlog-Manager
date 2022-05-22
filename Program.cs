@@ -25,7 +25,7 @@ namespace AlbumBacklogManager
                 // If so, prompt user further
                 if(input.Contains(i))
                 {
-                    SongManager.PromptNewSong();
+                    Song s = SongManager.PromptNewSong();
                 }
             }
 
